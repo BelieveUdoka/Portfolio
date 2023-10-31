@@ -15,7 +15,7 @@
  #header{
    width: 100%;
    height: 100vh;
-   background-image: url(img/background.png);
+   background-image: url(img/Blackbackground.png);
    background-size: cover;
    background-position: center;
 }
@@ -368,7 +368,7 @@ i.fa-solid {
 
 @media only screen and (max-width:768px){
    #header{
-      background-image: url(img/phone-background.png);
+      background-image: url(img/phone-Blackbackground.png);
    }
 
    .header-text{
